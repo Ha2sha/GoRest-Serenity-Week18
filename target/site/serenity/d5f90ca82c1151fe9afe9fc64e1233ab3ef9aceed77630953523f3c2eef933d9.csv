@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CURD test with steps","This will create a new user","SUCCESS","2022-06-05T02:16:41.705+01:00[Europe/London]","0.0","0.92"
+"User CURD test with steps","Verify if the user was added to the application for name=Himadri Kocchar","SUCCESS","2022-06-05T02:16:42.653+01:00[Europe/London]","0.0","0.84"
+"User CURD test with steps","Update the user information and verify the updated information for ID=3866","SUCCESS","2022-06-05T02:16:43.494+01:00[Europe/London]","0.0","0.81"
+"User CURD test with steps","Delete the user and verify if the user is deleted! for ID=3868","SUCCESS","2022-06-05T02:16:44.309+01:00[Europe/London]","0.0","1.53"
